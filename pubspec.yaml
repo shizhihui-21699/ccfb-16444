@@ -1,0 +1,7 @@
+name: fitness_privacy
+description: 运动轨迹隐私保护:隐私区域自动识别、起止点模糊化、热力图敏感区域屏蔽,且不影响距离统计与排行榜精度。
+version: 0.1.0
+environment:
+  sdk: ^3.0.0
+dev_dependencies:
+  test: ^1.24.0
